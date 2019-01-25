@@ -1,0 +1,6 @@
+[submodule "shogi-board"]
+	path = shogi-board
+	url = git@github.com:murosan/shogi-board.git
+[submodule "shogi-board-server"]
+	path = shogi-board-server
+	url = git@github.com:murosan/shogi-board-server.git
