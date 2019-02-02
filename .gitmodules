@@ -4,3 +4,6 @@
 [submodule "shogi-board-server"]
 	path = shogi-board-server
 	url = git@github.com:murosan/shogi-board-server.git
+[submodule "shogi-board-protobufs"]
+	path = shogi-board-protobufs
+	url = git@github.com:murosan/shogi-board-protobufs.git
